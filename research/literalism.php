@@ -22,9 +22,9 @@
 	</div>
 <?php include("../inc/sidebar.php");?>
 
-<figure style="float: right; width: 25%; margin: 0">
-    <img src="./img/E13B.png" alt="E-13B typeface" width="100%" style="float: right; border: 2px solid black;">
-    <figcaption style="float: right; width: 100%;">E-13B, the first machine-readable typeface (see <a href="https://pdfpiw.uspto.gov/.piw?Docid=03000000&homeurl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526p%3D1%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-bool.html%2526r%3D1%2526f%3DG%2526l%3D50%2526co1%3DAND%2526d%3DPALL%2526s1%3D3000000.PN.%2526OS%3DPN%2F3000000%2526RS%3DPN%2F3000000&PageNum=&Rtype=&SectionNum=&idkey=NONE&Input=View+first+page" target="_blank">US Patent 3000000</a>)</figcaption>
+<figure class="sidebar-fig">
+    <img class="sidebar-img" src="./img/E13B.png" alt="E-13B typeface">
+    <figcaption class="sidebar-cap">E-13B, the first machine-readable typeface (see <a href="https://pdfpiw.uspto.gov/.piw?Docid=03000000&homeurl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526p%3D1%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-bool.html%2526r%3D1%2526f%3DG%2526l%3D50%2526co1%3DAND%2526d%3DPALL%2526s1%3D3000000.PN.%2526OS%3DPN%2F3000000%2526RS%3DPN%2F3000000&PageNum=&Rtype=&SectionNum=&idkey=NONE&Input=View+first+page" target="_blank">US Patent 3000000</a>)</figcaption>
 </figure>
 
 </div>

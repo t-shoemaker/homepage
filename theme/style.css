@@ -40,15 +40,29 @@ a, a:visited {
 	width: 25%;
 }
 
+.sidebar-fig {
+	float: right;
+	width: 25%;
+	margin: 0;
+}
+
+.sidebar-img {
+	float: right;
+	width: 100%;
+	border: 2px solid black;
+}
+
+.sidebar-cap {
+	float: right;
+	width: 100%;
+	margin-top: 2%;
+}
+
 hr {
 	height: 2px;
 	border-width: 0;
 	color: black;
 	background-color: black
-}
-
-figcaption {
-    margin-top: 2%;
 }
 
 input, button {

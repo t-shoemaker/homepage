@@ -35,9 +35,9 @@ ARTECHNE</i>
 	</div>
 <?php include("../inc/sidebar.php");?>
 
-<figure style="float: right; width: 25%; margin: 0">
-    <img src="./img/type-high-logo.png" alt="maker lab logo" width="100%" style="float: right; border: 2px solid black;">
-    <figcaption style="float: right; width: 100%;">Type-high 3D-printed Maker Lab logo</figcaption>
+<figure class="sidebar-fig">
+    <img class="sidebar-img" src="./img/type-high-logo.png" alt="maker lab logo">
+    <figcaption class="sidebar-cap">Type-high 3D-printed Maker Lab logo</figcaption>
 </figure>
 
 </div>

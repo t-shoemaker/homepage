@@ -22,8 +22,8 @@
 	</div>
 <?php include("../inc/sidebar.php");?>
 
-<figure style="float: right; width: 25%; margin: 0">
-    <img src="./img/notyetdef.png" alt="notyetdef sample" width="100%" style="float: right; border: 2px solid black;">
+<figure class="sidebar-fig">
+    <img class="sidebar-img" src="./img/notyetdef.png" alt="notyetdef sample">
 </figure>
 
 </div>

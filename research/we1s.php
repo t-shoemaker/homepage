@@ -24,9 +24,9 @@
 	</div>
 <?php include("../inc/sidebar.php");?>
 
-<figure style="float: right; width: 25%; margin: 0">
-    <img src="./img/we1s-topic-bubbles.png" alt="WE1S topic model sample" width="100%" style="float: right; border: 2px solid black;">
-    <figcaption style="float: right; width: 100%;">Detail, <a href="http://harbor.english.ucsb.edu:10002/collections/20190620_2238_us-humanities-all-no-reddit/" target="_blank">250 topic model</a> of the primary WE1S corpus</figcaption>
+<figure class="sidebar-fig">
+    <img class="sidebar-img" src="./img/we1s-topic-bubbles.png" alt="WE1S topic model sample">
+    <figcaption class="sidebar-cap">Detail, <a href="http://harbor.english.ucsb.edu:10002/collections/20190620_2238_us-humanities-all-no-reddit/" target="_blank">250 topic model</a> of the primary WE1S corpus</figcaption>
 </figure>
 
 </div>	

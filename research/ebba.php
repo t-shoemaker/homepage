@@ -24,9 +24,9 @@
 	</div>
 <?php include("../inc/sidebar.php");?>
 
-<figure style="float: right; width: 25%; margin: 0">
-    <img src="./img/ebba-31981.png" alt="woodcut feature points" width="100%" style="float: right; border: 2px solid black;">
-    <figcaption style="float: right; width: 100%;">Feature points for an EBBA woodcut (<a href="http://ebba.english.ucsb.edu/ballad/31981/bia" target="_blank">EBBA 31981</a>)</figcaption>
+<figure class="sidebar-fig">
+    <img class="sidebar-img" src="./img/ebba-31981.png" alt="woodcut feature points">
+    <figcaption class="sidebar-cap">Feature points for an EBBA woodcut (<a href="http://ebba.english.ucsb.edu/ballad/31981/bia" target="_blank">EBBA 31981</a>)</figcaption>
 </figure>
 
 </div>

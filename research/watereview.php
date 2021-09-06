@@ -2,7 +2,7 @@
 <html>
 <head>
 	
-	<title>Tyler Shoemaker • WhatEvery1Says</title>
+	<title>Tyler Shoemaker • wateReview</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8">
 	
 	<base href="../">
@@ -24,9 +24,9 @@
 	</div>
 <?php include("../inc/sidebar.php");?>
 
-<figure style="float: right; width: 25%; margin: 0">
-    <img src="./img/watereview-chord.png" alt="chord diagram" width="100%" style="float: right; border: 2px solid black;">
-    <figcaption style="float: right; width: 100%;">Predicted research composition of countries in the wateReview corpus.</figcaption>
+<figure class="sidebar-fig">
+    <img class="sidebar-img" src="./img/watereview-chord.png" alt="chord diagram">
+    <figcaption class="sidebar-cap">Predicted research composition of countries in the wateReview corpus.</figcaption>
 </figure>
 
 </div>	
