@@ -41,7 +41,9 @@
 
 <figure class="sidebar-fig">
     <img class="sidebar-img" src="./img/ebba-31981.png" alt="woodcut feature points">
-    <figcaption class="sidebar-cap">Feature points for an EBBA woodcut (<a href="http://ebba.english.ucsb.edu/ballad/31981/bia" target="_blank">EBBA 31981</a>)</figcaption>
+    <figcaption class="sidebar-cap">Feature points for an EBBA woodcut (<a 
+    href="http://ebba.english.ucsb.edu/ballad/31981/bia" target="_blank">EBBA
+    31981</a>)</figcaption>
 </figure>
 
 </div>

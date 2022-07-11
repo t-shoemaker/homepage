@@ -31,9 +31,12 @@
         <p>.notyetdef <a href="./research/notyetdef">+</a></p>
         <p style="margin-left: 35px">Generating asemic glyphs with neural networks trained on
         Unicode-enabled fonts.</p>
+        <p>Shared Cataloging of Early Printed Images <a href="./research/getty">+</a></p>
+        <p style="margin-left: 35px">Linking together image collections with computer vision and
+        natural language processing.</p>
         <p>wateReview <a href="./research/watereview">+</a></p>
-        <p style="margin-left: 35px">Surveying a corpus of water management articles from the
-        Caribbean and South and Central America.</p>
+        <p style="margin-left: 35px">Surveying a corpus of water management articles from Latin
+        America.</p>
         <p>WhatEvery1Says <a href="./research/we1s">+</a></p>
         <p style="margin-left: 35px">Text mining hundreds of thousands of media articles that
         discuss the humanities.</p>

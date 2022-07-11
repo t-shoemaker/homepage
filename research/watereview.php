@@ -29,7 +29,7 @@
         interactive visualizations, which include a topic model viewer, network connectivity graphs,
         and several chord diagrams. Central to our design considerations was feedback we received
         from three workshops held in 2020, where we discussed various needs from and for the water
-        research community. These workshops were held in the t hree major languages of the Caribbean
+        research community. These workshops were held in the three major languages of the Caribbean
         and South and Central America: English, Spanish, and Portuguese. wateReview, in turn, is a
         multilingual site that offers several multifaceted views of the corpus, ranging from
         overarching topic distribution plots to individualized "country cards" that break down
