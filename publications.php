@@ -29,6 +29,8 @@
         target="_blank"><i>The Bloomsbury Handbook of Sonic Methodologies</i></a>, eds. Michael Bull
         and Marcel Cobussen, London: Bloomsbury, 2020</p>
         <h4>Essays and Reviews</h4>
+        <p>Review of <i>The Cultural Life of Machine Learning: An Incursion into Critical AI Studies</i>, 
+        eds. Jonathan Roberge and Michael Castelle, <i>American Literature</i> (forthcoming)</p>
         <p><a href=https://www.researchcatalogue.net/view/558982/1115318 target="_blank">Review</a>
         of <i>Eavesdropping: A Reader</i>, eds. James Parker and Joel Stern, <i>Journal of Sonic
         Studies</i> (January 2021)</p>
