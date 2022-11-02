@@ -23,7 +23,10 @@
         <p>"<a href="https://www.researchcatalogue.net/view/380109/380110" target="_blank">Fugue
         States</a>," <i>Journal of Sonic Studies</i> 16: "Materials of Sound," ed. Caleb Kelly (May
         2018)</p>
-        <h4>Book Chapters</h4>
+        <h4>Book Chapters and Conference Proceedings</h4>
+        <p>"Concatenative Textuality," <i>Proceedings of the Source Code
+        Criticism Seminar, March 25-26, 2022</i>, Basel: Universit&auml;t Basel
+        (forthcoming)</p>
         <p>"Sonic Materialism and/as Method," <a
         href="https://www.bloomsbury.com/uk/the-bloomsbury-handbook-of-sonic-methodologies-9781501338755/"
         target="_blank"><i>The Bloomsbury Handbook of Sonic Methodologies</i></a>, eds. Michael Bull
