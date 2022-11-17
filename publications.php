@@ -19,7 +19,7 @@
         <h3>Publications</h3>
         <h4>Journal Articles</h4>
         <p>"<a href="https://scholarworks.iu.edu/journals/index.php/textual/article/view/27153"
-        target="_blank">Error Aligned</a>," <i>Textual Cultures</i> 12:1 (Spring 2019): 155-182</p>
+        target="_blank">Error Aligned</a>," <i>Textual Cultures</i> 12.1 (Spring 2019): 155-182</p>
         <p>"<a href="https://www.researchcatalogue.net/view/380109/380110" target="_blank">Fugue
         States</a>," <i>Journal of Sonic Studies</i> 16: "Materials of Sound," ed. Caleb Kelly (May
         2018)</p>
@@ -32,17 +32,18 @@
         target="_blank"><i>The Bloomsbury Handbook of Sonic Methodologies</i></a>, eds. Michael Bull
         and Marcel Cobussen, London: Bloomsbury, 2020</p>
         <h4>Essays and Reviews</h4>
-        <p>Review of <i>The Cultural Life of Machine Learning: An Incursion into Critical AI Studies</i>, 
-        eds. Jonathan Roberge and Michael Castelle, <i>American Literature</i> (forthcoming)</p>
-        <p><a href=https://www.researchcatalogue.net/view/558982/1115318 target="_blank">Review</a>
-        of <i>Eavesdropping: A Reader</i>, eds. James Parker and Joel Stern, <i>Journal of Sonic
-        Studies</i> (January 2021)</p>
+        <p>Review essay, "Cultural Gradients and the Sociotechnics of Data,"
+        <i>American Literature</i> 95.2: "Critical AI: A Field in Formation," eds. Rita
+        Raley and Jennifer Rhee (forthcoming)</p>
+        <p><a href=https://www.researchcatalogue.net/view/558982/1115318 target="_blank">Review</a>, 
+        <i>Eavesdropping: A Reader</i>, eds. James Parker and Joel Stern,
+        <i>Journal of Sonic Studies</i> (January 2021)</p>
         <p>"A Font of Fonts," with Fred Benenson, <a
         href="https://futuretextpublishing.com/future-of-text-2020-download/" target="_blank"><i>The
         Future of Text: a 2020 Vision</i></a>, ed. Frode Hegland (November 2020)</p>
-        <p>"<a href="https://lareviewofbooks.org/article/the-unfamiliar" target="_blank">The
-        Unfamiliar</a>," with Jeremy Douglass, Caterina Lazzara, and Rita Raley, <i>Los Angeles
-        Review of Books</i> (June 2015)</p>
+        <p>Review essay, "<a href="https://lareviewofbooks.org/article/the-unfamiliar" target="_blank">
+        The Unfamiliar</a>," with Jeremy Douglass, Caterina Lazzara, and Rita Raley, <i>Los
+        Angeles Review of Books</i> (June 2015)</p>
     </div>
 <?php include("./inc/sidebar.php");?>
 
