@@ -38,7 +38,7 @@
         Santa Barabara, Apr. 24</p>
         <p>"Wordless Labor," Annual conference, Modern Language Association, New York City, Jan. 6</p>
         <h4>2017</h4>
-        <p>"Linotypes and Linotext Minima," Cal DH work session, University of California, Lost Angeles, Nov. 22</p>
+        <p>"Linotypes and Linotext Minima," Cal DH work session, University of California, Los Angeles, Nov. 22</p>
         <p>"Fugue States," Annual conference, American Comparative Literature Association,
         University of Utrecht, Jul. 6–9</p>
     </div>
