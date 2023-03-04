@@ -41,9 +41,9 @@
         <p>"A Font of Fonts," with Fred Benenson, <a
         href="https://futuretextpublishing.com/future-of-text-2020-download/" target="_blank"><i>The
         Future of Text: a 2020 Vision</i></a>, ed. Frode Hegland (November 2020)</p>
-        <p>Review essay, "<a href="https://lareviewofbooks.org/article/the-unfamiliar" target="_blank">
-        The Unfamiliar</a>," with Jeremy Douglass, Caterina Lazzara, and Rita Raley, <i>Los
-        Angeles Review of Books</i> (June 2015)</p>
+        <p>Review essay, "<a href="https://lareviewofbooks.org/article/the-unfamiliar" 
+        target="_blank">The Unfamiliar</a>," with Jeremy Douglass, Caterina
+        Lazzara, and Rita Raley, <i>Los Angeles Review of Books</i> (June 2015)</p>
     </div>
 <?php include("./inc/sidebar.php");?>
 
