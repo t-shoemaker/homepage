@@ -32,9 +32,11 @@
         target="_blank"><i>The Bloomsbury Handbook of Sonic Methodologies</i></a>, eds. Michael Bull
         and Marcel Cobussen, London: Bloomsbury, 2020</p>
         <h4>Essays and Reviews</h4>
-        <p>Review essay, "Cultural Gradients and the Sociotechnics of Data,"
+        <p>Review essay,
+        "<a href="https://read.dukeupress.edu/american-literature/article/doi/10.1215/00029831-10575190/344226/Cultural-Gradients-and-the-Sociotechnics-of-Data"
+        target="_blank">Cultural Gradients and the Sociotechnics of Data</a>,"
         <i>American Literature</i> 95.2: "Critical AI: A Field in Formation," eds. Rita
-        Raley and Jennifer Rhee (forthcoming)</p>
+        Raley and Jennifer Rhee (June 2023)</p>
         <p><a href=https://www.researchcatalogue.net/view/558982/1115318 target="_blank">Review</a>, 
         <i>Eavesdropping: A Reader</i>, eds. James Parker and Joel Stern,
         <i>Journal of Sonic Studies</i> (January 2021)</p>
