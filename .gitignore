@@ -1,3 +1,4 @@
 .htaccess
+docs/*
 burn-ins/*
 img/*
