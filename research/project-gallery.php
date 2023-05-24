@@ -3,7 +3,8 @@
 <head>
 	
     <title>Tyler Shoemaker • Project Gallery</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"
+    charset="UTF-8">
 	
     <base href="../">
     <link href="./theme/style.css" rel="stylesheet">
@@ -44,16 +45,13 @@
         foreach($keys as $key){
             $new[$key] = $arr[$key];
         }
-
-        $arr = $new;
-
-        return $arr;
+        return $new;
     }
 
     $images = shuffle_assoc($images);
 
     foreach($images as $img => $caption){
-        echo "\t\t" . '<img src="' . $img . '" title="' . $caption . '" />' . "\n";
+        echo "\t\t".'<img src="'.$img.'" title="'.$caption.'" />' . "\n";
     }
 
     ?>
