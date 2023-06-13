@@ -18,7 +18,9 @@
 <div class="row">
     <div id="main-content" class="column">
         <h3>Publications</h3>
-        <h4>Journal Articles</h4>
+        <h4>Journal Articles</h4> <p>"<i>-graphic</i> Encoding," <i>Amodern</i>
+        12: "Alternative Print Technologies and Revolution," eds. Andrew
+        Amstutz and Thomas Mullaney (forthcoming)</p>
         <p>"<a href="https://scholarworks.iu.edu/journals/index.php/textual/article/view/27153"
         target="_blank">Error Aligned</a>," <i>Textual Cultures</i> 12.1
         (Spring 2019): 155-182</p>
@@ -27,32 +29,34 @@
         "Materials of Sound," ed. Caleb Kelly (May 2018)</p>
         <h4>Book Chapters and Conference Proceedings</h4>
         <p>"Concatenative Textuality," <i>Proceedings of the Source Code
-        Criticism Seminar, March 25-26, 2022</i>, Basel: Universit&auml;t Basel
-        (forthcoming)</p>
+        Criticism Seminar</i>, Basel: Universit&auml;t Basel (forthcoming)</p>
         <p>"Sonic Materialism and/as Method," <a
         href="https://www.bloomsbury.com/uk/the-bloomsbury-handbook-of-sonic-methodologies-9781501338755/"
         target="_blank"><i>The Bloomsbury Handbook of Sonic
         Methodologies</i></a>, eds. Michael Bull and Marcel Cobussen, London:
         Bloomsbury, 2020</p>
-        <h4>Essays and Reviews</h4>
-        <p>Review essay,
-        "<a href="https://read.dukeupress.edu/american-literature/article/doi/10.1215/00029831-10575190/344226/Cultural-Gradients-and-the-Sociotechnics-of-Data"
+        <h4>Reviews</h4>
+        <p>"<a
+        href="https://read.dukeupress.edu/american-literature/article/doi/10.1215/00029831-10575190/344226/Cultural-Gradients-and-the-Sociotechnics-of-Data"
         target="_blank">Cultural Gradients and the Sociotechnics of Data</a>,"
         <i>American Literature</i> 95.2: "Critical AI: A Field in Formation,"
         eds. Rita Raley and Jennifer Rhee (June 2023)</p>
-        <p><a href=https://www.researchcatalogue.net/view/558982/1115318
-        target="_blank">Review</a>, <i>Eavesdropping: A Reader</i>, eds. James
-        Parker and Joel Stern,
-        <i>Journal of Sonic Studies</i> (January 2021)</p>
-        <p>"A Font of Fonts," with Fred Benenson, <a
-        href="https://futuretextpublishing.com/future-of-text-2020-download/"
-        target="_blank"><i>The Future of Text: a 2020 Vision</i></a>, ed. Frode
-        Hegland (November 2020)</p>
-        <p>Review essay, "<a
+        <p>Of <a href=https://www.researchcatalogue.net/view/558982/1115318
+        target="_blank"><i>Eavesdropping: A Reader</i></a>, eds. James Parker
+        and Joel Stern, <i>Journal of Sonic Studies</i> (January 2021)</p>
+        "<a
         href="https://lareviewofbooks.org/article/the-unfamiliar"
         target="_blank">The Unfamiliar</a>," with Jeremy Douglass, Caterina
         Lazzara, and Rita Raley, <i>Los Angeles Review of Books</i> (June
         2015)</p>
+        <h4>Essays and Public Writing</h4>
+        <p>"Machines, Reading," "Again Theory: A Forum on Wave Poems,
+        Stochastic Parrots, Language, Meaning, and Intent in an AI Moment,"
+        <i>In the Moment</i> (June 2023)
+        <p>"A Font of Fonts," with Fred Benenson, <a
+        href="https://futuretextpublishing.com/future-of-text-2020-download/"
+        target="_blank"><i>The Future of Text: a 2020 Vision</i></a>, ed. Frode
+        Hegland (November 2020)</p>
     </div>
 <?php include("./inc/sidebar.php");?>
 
