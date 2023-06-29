@@ -18,9 +18,10 @@
 <div class="row">
     <div id="main-content" class="column">
         <h3>Publications</h3>
-        <h4>Journal Articles</h4> <p>"<i>-graphic</i> Encoding," <i>Amodern</i>
-        12: "Alternative Print Technologies and Revolution," eds. Andrew
-        Amstutz and Thomas Mullaney (forthcoming)</p>
+        <h4>Journal Articles</h4>
+        <p>"<i>-graphic</i> Encoding," <i>Amodern</i> 12: "Alternative Print
+        Technologies and Revolution," eds. Andrew Amstutz and Thomas Mullaney
+        (forthcoming)</p>
         <p>"<a href="https://scholarworks.iu.edu/journals/index.php/textual/article/view/27153"
         target="_blank">Error Aligned</a>," <i>Textual Cultures</i> 12.1
         (Spring 2019): 155-182</p>
@@ -44,15 +45,16 @@
         <p>Of <a href=https://www.researchcatalogue.net/view/558982/1115318
         target="_blank"><i>Eavesdropping: A Reader</i></a>, eds. James Parker
         and Joel Stern, <i>Journal of Sonic Studies</i> (January 2021)</p>
-        "<a
-        href="https://lareviewofbooks.org/article/the-unfamiliar"
+        "<a href="https://lareviewofbooks.org/article/the-unfamiliar"
         target="_blank">The Unfamiliar</a>," with Jeremy Douglass, Caterina
         Lazzara, and Rita Raley, <i>Los Angeles Review of Books</i> (June
         2015)</p>
         <h4>Essays and Public Writing</h4>
-        <p>"Machines, Reading," "Again Theory: A Forum on Wave Poems,
-        Stochastic Parrots, Language, Meaning, and Intent in an AI Moment,"
-        <i>In the Moment</i> (June 2023)
+        <p>"<a
+        href="https://critinq.wordpress.com/2023/06/28/machines-reading/"
+        target="_blank">Machines, Reading</a>," "Again Theory: A Forum on
+        Language, Meaning, and Intent in the Time of Stochastic Parrots,"
+        <i>Critical Inquiry: In the Moment</i> (June 2023)</p>
         <p>"A Font of Fonts," with Fred Benenson, <a
         href="https://futuretextpublishing.com/future-of-text-2020-download/"
         target="_blank"><i>The Future of Text: a 2020 Vision</i></a>, ed. Frode
