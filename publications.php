@@ -28,9 +28,13 @@
         <p>"<a href="https://www.researchcatalogue.net/view/380109/380110"
         target="_blank">Fugue States</a>," <i>Journal of Sonic Studies</i> 16:
         "Materials of Sound," ed. Caleb Kelly (May 2018)</p>
-        <h4>Book Chapters and Conference Proceedings</h4>
-        <p>"Concatenative Textuality," <i>Proceedings of the Source Code
-        Criticism Seminar</i>, Basel: Universit&auml;t Basel (forthcoming)</p>
+        <h4>Book Chapters</h4>
+        <p>"Verkettete Textualit&auml;t [<a
+        href="https://escholarship.org/uc/item/20k8q4xc"
+        target="_blank">Concatenative Textuality</a>]", <i> Quellcodekritik:
+        Zur Philologie von Algorithmen</i> [<i>Source Code Criticism: On the
+        Philology of Algorithms</i>], eds. Hannes Bajohr and Markus Krajewski,
+        Berlin: August, 2023</p>
         <p>"Sonic Materialism and/as Method," <a
         href="https://www.bloomsbury.com/uk/the-bloomsbury-handbook-of-sonic-methodologies-9781501338755/"
         target="_blank"><i>The Bloomsbury Handbook of Sonic
