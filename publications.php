@@ -31,7 +31,7 @@
         <h4>Book Chapters</h4>
         <p>"Verkettete Textualit&auml;t [<a
         href="https://escholarship.org/uc/item/20k8q4xc"
-        target="_blank">Concatenative Textuality</a>]", <i> Quellcodekritik:
+        target="_blank">Concatenative Textuality</a>]," <i> Quellcodekritik:
         Zur Philologie von Algorithmen</i> [<i>Source Code Criticism: On the
         Philology of Algorithms</i>], eds. Hannes Bajohr and Markus Krajewski,
         Berlin: August, 2023</p>
