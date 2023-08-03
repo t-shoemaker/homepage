@@ -19,6 +19,8 @@
     <div id="main-content" class="column">
         <h3>Lectures and Presentations</h3>
         <h4>2023</h4>
+        <p>"Distributional Semantics without Distributionalism," Digital Theory
+        Lab, New York University, Sept. 29</p>
         <p>"Indexing Semantic Association," Technolinguistics in Practice,
         University of Siegen, May 24-26</p>
         <h4>2022</h4>
