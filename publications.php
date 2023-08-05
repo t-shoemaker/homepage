@@ -49,10 +49,6 @@
         <p>Of <a href=https://www.researchcatalogue.net/view/558982/1115318
         target="_blank"><i>Eavesdropping: A Reader</i></a>, eds. James Parker
         and Joel Stern, <i>Journal of Sonic Studies</i> (January 2021)</p>
-        "<a href="https://lareviewofbooks.org/article/the-unfamiliar"
-        target="_blank">The Unfamiliar</a>," with Jeremy Douglass, Caterina
-        Lazzara, and Rita Raley, <i>Los Angeles Review of Books</i> (June
-        2015)</p>
         <h4>Essays and Public Writing</h4>
         <p>"<a
         href="https://critinq.wordpress.com/2023/06/28/machines-reading/"
@@ -63,6 +59,10 @@
         href="https://futuretextpublishing.com/future-of-text-2020-download/"
         target="_blank"><i>The Future of Text: a 2020 Vision</i></a>, ed. Frode
         Hegland (November 2020)</p>
+        <p>"<a href="https://lareviewofbooks.org/article/the-unfamiliar"
+        target="_blank">The Unfamiliar</a>," with Jeremy Douglass, Caterina
+        Lazzara, and Rita Raley, <i>Los Angeles Review of Books</i> (June
+        2015)</p>
     </div>
 <?php include("./inc/sidebar.php");?>
 
