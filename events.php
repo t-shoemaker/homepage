@@ -19,41 +19,43 @@
     <div id="main-content" class="column">
         <h3>Lectures and Presentations</h3>
         <h4>2024</h4>
+        <p>"Against Explainability." The Fate of Professional Reading: Reports
+        from the Field. Department of English, University of Iowa. March 1</p>        
         <p>"Good Old-Fashioned Reading." Reading Generative AI:
         Theory/Data/Critique seminar. Annual conference, Modern Language
-        Association. Philadelpha, January (TBD)
+        Association. Philadelpha. January (TBD)
         <h4>2023</h4>
         <p>"Distributional Semantics without Distributionalism." Digital Theory
-        Lab. New York University, Sept. 29</p>
+        Lab. New York University. September 29</p>
         <p>"Indexing Semantic Association." Technolinguistics in Practice.
-        University of Siegen, May 25</p>
+        University of Siegen. May 25</p>
         <h4>2022</h4>
         <p>Participant, Model Realities seminar. Annual conference, German
-        Studies Association. Houston, Sept. 6-9</p>
+        Studies Association. Houston. September 6-9</p>
         <p>"Preprocessing the Word." Source Code Criticism seminar, University
-        of Basel. Mar. 26</p>
+        of Basel. March 26</p>
         <h4>2020</h4>
         <p>"Plaintext Scrim." Annual conference, Modern Language Association.
-        Seattle, Jan. 9</p>
+        Seattle. January 9</p>
         <h4>2019</h4>
         <p>"Script Hacks and Visual Spoofs." Creative Multilingualism:
-        Scriptworlds. University of California, Santa Barbara, May 31</p>
+        Scriptworlds. University of California, Santa Barbara. May 31</p>
         <p>"The Edge of Sense." Annual conference, Society for Textual
-        Scholarship. The New School, Mar. 21</p>
+        Scholarship. The New School. March 21</p>
         <p>"The Error that Catches the Eye." Annual conference, Modern Language
-        Association. Chicago, Jan. 5</p>
+        Association. Chicago. January 5</p>
         <h4>2018</h4>
         <p>"Scanbed Poetics." Annual conference, Electronic Literature
-        Organization. University of Montreal, Aug. 14</p>
+        Organization. University of Montreal. August 14</p>
         <p>"Font Futures." Wireframe Studio symposium: Future Tripping.
-        University of California, Santa Barabara, Apr. 24</p>
+        University of California, Santa Barabara. April 24</p>
         <p>"Wordless Labor." Annual conference, Modern Language Association.
-        New York City, Jan. 6</p>
+        New York City. January 6</p>
         <h4>2017</h4>
         <p>"Linotypes and Linotext Minima." Cal DH work session. University of
-        California, Los Angeles, Nov. 22</p>
+        California, Los Angeles. November 22</p>
         <p>"Fugue States." Hearing Things seminar. Annual conference, American
-        Comparative Literature Association. University of Utrecht, Jul. 6–9</p>
+        Comparative Literature Association. University of Utrecht. July 6–9</p>
     </div>
 <?php include("./inc/sidebar.php");?>
 
