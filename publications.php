@@ -19,7 +19,7 @@
     <div id="main-content" class="column">
         <h3>Publications</h3>
         <h4>Journal Articles</h4>
-        <p>"<i>-graphic</i> Encoding." <i>Amodern</i> 12: "Alternative Print
+        <p>"Unreasonable Characters." <i>Amodern</i> 12: "Alternative Print
         Technologies and Revolution." Eds. Andrew Amstutz and Thomas Mullaney
         (forthcoming)</p>
         <p>"<a href="https://scholarworks.iu.edu/journals/index.php/textual/article/view/27153"
