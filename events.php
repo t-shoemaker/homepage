@@ -23,7 +23,7 @@
         from the Field. Department of English, University of Iowa. March 1</p>        
         <p>"Good Old-Fashioned Reading." Reading Generative AI:
         Theory/Data/Critique seminar. Annual conference, Modern Language
-        Association. Philadelpha. January (TBD)
+        Association. Philadelpha. January 5
         <h4>2023</h4>
         <p>"Distributional Semantics without Distributionalism." Digital Theory
         Lab. New York University. September 29</p>
