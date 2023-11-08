@@ -42,7 +42,7 @@
         Bloomsbury, 2020: 169-186</p>
         <h4>Reviews</h4>
         <p>"<a
-        href="https://read.dukeu: 169-186press.edu/american-literature/article/doi/10.1215/00029831-10575190/344226/Cultural-Gradients-and-the-Sociotechnics-of-Data"
+        href="https://read.dukeupress.edu/american-literature/article-abstract/95/2/415/344226/Cultural-Gradients-and-the-Sociotechnics-of-Data"
         target="_blank">Cultural Gradients and the Sociotechnics of Data</a>."
         <i>American Literature</i> 95, no. 2: "Critical AI: A Field in
         Formation." Eds. Rita Raley and Jennifer Rhee (June 2023): 415-418</p>
