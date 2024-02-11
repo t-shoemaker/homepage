@@ -19,8 +19,9 @@
     <div id="main-content" class="column">
         <h3>Lectures and Presentations</h3>
         <h4>2024</h4>
-        <p>"Reading on the Red Team." The Fate of Professional Reading: Reports
-        from the Field. Department of English, University of Iowa. March 1</p>        
+        <p>"Good Old-Fashioned Reading." The Fate of Professional Reading:
+        Reports from the Field. Department of English, University of Iowa.
+        March 1</p>        
         <p>"Good Old-Fashioned Reading." Reading Generative AI:
         Theory/Data/Critique seminar. Annual conference, Modern Language
         Association. Philadelpha. January 5
